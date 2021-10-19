@@ -17,8 +17,8 @@
 
 * **Saida**
 
-1. Quantidade de nº: __3__
-2. Soma dos nº: __18__
-3. Maior nº: __9__
-4. Menor nº: __4__
-5. Média dos nº: __6__
+1. Quantidade: __3__
+2. Soma: __18__
+3. Maior: __9__
+4. Menor: __4__
+5. Média: __6__
