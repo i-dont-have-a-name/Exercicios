@@ -13,12 +13,12 @@
 ##  __EXEMPLO__
 
 * **Valores de entrada**
-> 5, 8, 3
+> 5, 9, 4
 
 * **Saida**
 
-1. Quantidade de nº: 3
-2. Soma dos valores: 16
-3. Maior nº........: 8
-4. Menor nº........: 3
-5. Média dos nº....: 5.33
+1. Quantidade de nº: __3__
+2. Soma dos nº: __18__
+3. Maior nº: __9__
+4. Menor nº: __4__
+5. Média dos nº: __6__
